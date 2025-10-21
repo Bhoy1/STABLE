@@ -1,0 +1,7 @@
+.env
+__pycache__/
+logs/
+models/
+
+seal_env1
+.cursorignore
